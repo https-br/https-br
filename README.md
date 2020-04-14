@@ -1,2 +1,2 @@
-# https-br
-Análise do ecosistema HTTPS no Brasil (BR)
+# abcomm
+Primeira versão da análise do ecosistema HTTPS dos sites da Associação Brasileira de Comércio Eletrônico (Abcomm)
